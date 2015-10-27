@@ -3,7 +3,7 @@
   padding-bottom: 50px;
   text-align: center;
 }
-#map {
+#map, #london {
   width: 500px;
   height: 400px;
   background-color: #CCC;
